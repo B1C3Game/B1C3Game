@@ -28,6 +28,6 @@ Partners, collaborators, or a role where AI-augmented development isn't just tol
 
 If that sounds interesting: let's talk.
 
-📫 LinkedIn
+**📫 LinkedIn**
 
 "The systems I built to compensate became the systems that let me outproduce."
