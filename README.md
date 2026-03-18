@@ -1,12 +1,10 @@
 # Hey, I'm L. D. Nordin 👋
 
-I have a cognitive science degree and a memory deficiency.
-
-That's not a contradiction. It's the reason everything here exists.
+I build systems that work for how people think.
 
 ## The Short Version
 
-My brain doesn't hold onto things the way most brains do. So I built systems to compensate: cognitive offloading, automation, structured workflows, AI-augmented development. Turns out, when you're forced to externalize your thinking, you end up producing more than people who can just wing it.
+Cognitive offloading, automation, structured workflows, AI-augmented development. I externalize my thinking by design. Turns out, when your methodology doesn't rely on memory, you end up producing more than people who do.
 
 In one month with AI-assisted tooling, I shipped:
 
@@ -24,7 +22,7 @@ I studied cognitive science at the University of Skövde. I work in IT infrastru
 
 I speak Swedish and English fluently, Arabic and French conversationally. My writing uses what I call *language honing*: picking the word that carries the most meaning, regardless of which language it lives in. *Trygg* over "safe" because it carries trust. *Medskapande* over "collaboration" because it means building *with*, not building *for*. When no English word reaches, I reach for the one that does.
 
-My background in cognitive science means I understand *why* these systems work, not just how. Memory deficiency + cognitive offloading + AI tooling = a workflow that turns limitations into throughput.
+My background in cognitive science means I understand *why* these systems work, not just how. Cognitive offloading + AI tooling = a workflow that turns limitations into throughput.
 
 ## What I Need
 
