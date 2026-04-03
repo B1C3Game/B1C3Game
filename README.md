@@ -1,33 +1,42 @@
-# Hey, I'm L. D. Nordin 👋
+# B1C3: Systems That Amplify 🧠
 
-I build systems that work for how people think.
+I build collaboration architectures where humans and AI think together.
 
-## The Short Version
+## What This Means
 
-Cognitive offloading, automation, structured workflows, AI-augmented development. I externalize my thinking by design. Turns out, when your methodology doesn't rely on memory, you end up producing more than people who do.
+Cognitive offloading + shared constraints (SOUL + Aishna) + auditable methods = systems that work the way people actually think, not the way tech assumes they should.
 
-In one month with AI-assisted tooling, I shipped:
+When infrastructure does not leak cognitive load, you unlock throughput. That is not about shipping faster. It is about shipping coherent.
 
-🔧 **ux-tools** — Production-ready accessibility utility library. TypeScript, 71 tests, 100% coverage, WCAG 2.1 AA compliant, zero dependencies. Full marketing site with pricing.
+## Proof
 
-⚖️ **law-compliance** — EU regulatory compliance toolkit. AI Act & NIS2 checklists, evidence templates, audit-ready compliance reports.
+**Fraga** - Multi-agent collaboration runtime with semantic identity and shared narrative memory. [Paper](https://github.com/B1C3Game/fraga/blob/main/paper/PAPER_SUBMISSION_6P.md) · [Repo](https://github.com/B1C3Game/fraga) · [Live demo](https://b1c3game.github.io/multi-agent-collab-test/)
 
-🔢 **monitor-zero-infinity** — Numeric edge-case monitoring. Zero, infinity, and large number detection with a non-deterministic observer demo.
+**Cognitive Load Metrics** - Measure and audit semantic density, syntactic complexity, and lexical clarity. [Demo](https://b1c3game.github.io/cognitive-load-metrics/) · [GitHub](https://github.com/B1C3Game/cognitive-load-metrics)
 
-These are just the public ones. There are 50+ private repositories covering transliteration, cross-script communication, secure cloud, sensor calibration, and more.
+**ux-tools** - Production accessibility tooling in TypeScript with 71 tests, 100% coverage, and WCAG 2.1 AA focus. [GitHub](https://github.com/B1C3Game/ux-tools)
 
-## The Longer Version
+50+ public and private repositories across transliteration, compliance, systems design, and automation.
 
-I studied cognitive science at the University of Skövde. I work in IT infrastructure at Trafikverket (Sweden's transport administration). And on my own time, I've been building B1C3: linguistic technology, accessibility, compliance, and cross-script communication.
+## The Real Story
 
-I speak Swedish and English fluently, Arabic and French conversationally. My writing uses what I call *language honing*: picking the word that carries the most meaning, regardless of which language it lives in. *Trygg* over "safe" because it carries trust. *Medskapande* over "collaboration" because it means building *with*, not building *for*. When no English word reaches, I reach for the one that does.
+Cognitive science background. Infrastructure leadership at Trafikverket. Fluent Swedish and English; conversational Arabic and French. I think in systems and ship in code.
 
-My background in cognitive science means I understand *why* these systems work, not just how. Cognitive offloading + AI tooling = a workflow that turns limitations into throughput.
+The limiting belief: "You need memory to produce."
+The reality: "You need structure to produce."
 
-## What I Need
+## Looking For
 
-VS Code with GitHub Copilot integration and access to documentation. That's how I produce what I produce.
+**Technical collaborators** who understand:
+- Agent architectures with shared constraints
+- Semantic density as a design primitive
+- Auditable decision-making
 
-📄 [CV / Resumé](https://github.com/B1C3Game/CV) · 📫 [LinkedIn](https://linkedin.com/in/l-d-nordin-a2b6923b2) · 📧 contact@b1c3.dev
+**Go-to-market partners** who see the moat:
+- The OS, not the code
+- Philosophy as defensible IP
+- Collaboration as differentiation
 
-*"The systems I built to compensate became the systems that let me outproduce."*
+---
+
+📧 [contact@b1c3.dev](mailto:contact@b1c3.dev) · [LinkedIn](https://www.linkedin.com/in/l-d-nordin-a2b6923b2/) · [Landing Page](https://b1c3game.github.io/multi-agent-collab-test/)
