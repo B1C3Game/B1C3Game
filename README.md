@@ -39,4 +39,4 @@ The reality: "You need structure to produce."
 
 ---
 
-📧 [contact@b1c3.dev](mailto:contact@b1c3.dev) · [LinkedIn](https://www.linkedin.com/in/l-d-nordin-a2b6923b2/) · [Landing Page](https://b1c3game.github.io/multi-agent-collab-test/)
+📧 [contact@b1c3.dev](mailto:contact@b1c3.dev) · [LinkedIn](https://www.linkedin.com/in/l-d-nordin-a2b6923b2/) · [Landing Page](https://b1c3.dev/)
